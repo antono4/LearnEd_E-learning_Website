@@ -1,1 +1,26 @@
-Last updated: 2026-09-06 03:29:30 WIB
+# LearnEd_E-learning_Website
+
+
+
+## 📋 Overview
+
+This repository contains **124 files** and is built with the following technologies:
+
+HTML, CSS, JavaScript
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML, CSS, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-06 04:26:11 WIB*
