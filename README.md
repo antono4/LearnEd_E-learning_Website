@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/LearnEd_E-learning_Website"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/LearnEd_E-learning_Website-blue?logo=github"></a>
   <a href="https://antono4.github.io/LearnEd_E-learning_Website/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-125-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-21 08:34:55 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-21 14:05:48 WIB-lightgrey">
 </p>
 
 ---
@@ -63,5 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-21 08:34:55 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-09-21 12:14:50 WIB
+<sub>README ini di-generate otomatis pada **2026-09-21 14:05:48 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
